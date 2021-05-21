@@ -1,0 +1,12 @@
+body{
+    background-image: linear-gradient(to right,silver, grey, black);
+    margin: 5%;
+    padding: 10%;
+    text-align: center;
+    border: dashed red 10px;
+   font-size: 2.5rem;
+}
+
+p:hover{
+    color: aqua;
+}
